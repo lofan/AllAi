@@ -1,8 +1,8 @@
-<div align="center"><h1>AI Chip (ICs and IPs)</h1></div>
-<div align="center"><img src="https://github.com/basicmi/Deep-Learning-Processor-List/raw/master/resource/AI-chips.png"></div>
+<div align="center"><h1>AI</h1></div>
+
 <br>
 
-# <div align="center"><img src="https://github.com/basicmi/Deep-Learning-Processor-List/raw/master/resource/AI_Chip_Landscape_v0p7.png"></div>
+
 <div align="center"><h1> </h1></div>
 <a href="https://mad.firstmark.com/">The 2023 MAD (ML/AI/Data) Landscape</a>
 <div align="center"><h2>Latest updates</h2></div>
