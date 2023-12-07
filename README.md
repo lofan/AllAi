@@ -281,7 +281,7 @@ The soon to be released <a href="https://www.amd.com/en/graphics/instinct-server
 <div align="center"><h3> </h3></div>
 
 <div align="center"><h3> </h3></div>
-<p><a href="https://medium.com/syncedreview/alibabas-new-ai-chip-can-process-nearly-80k-images-per-second-63412dec22a3](https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.html">Apple launches MLX machine-learning framework for Apple Silicon</a></p>
+<p><a href="https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.html">Apple launches MLX machine-learning framework for Apple Silicon</a></p>
 
 <p><a name="Alibaba"></a></p>
 
