@@ -2,6 +2,7 @@
 
 
 <a href="https://mad.firstmark.com/">The 2023 MAD (ML/AI/Data) Landscape</a>
+<a href="https://github.com/Hannibal046/Awesome-LLM">Awsome LLM</a>
 <div align="center"><h2>Latest updates</h2></div>
 <HR>
 
