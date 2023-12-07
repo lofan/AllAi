@@ -1,9 +1,6 @@
 <div align="center"><h1>AI</h1></div>
 
-<br>
 
-
-<div align="center"><h1> </h1></div>
 <a href="https://mad.firstmark.com/">The 2023 MAD (ML/AI/Data) Landscape</a>
 <div align="center"><h2>Latest updates</h2></div>
 <HR>
